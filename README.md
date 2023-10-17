@@ -1,1 +1,1 @@
-## end to end mlops project for tutorial
+## end to end mlops project
